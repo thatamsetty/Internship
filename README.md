@@ -87,3 +87,7 @@ Internship Project – Focused on full-stack web development and real-time data 
 📜 License
 This project is for educational purposes. For any commercial use, proper permissions must be obtained.
 
+git add screenshots/
+git commit -m "Add screenshots for README"
+git push
+
